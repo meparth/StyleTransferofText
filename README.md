@@ -1,4 +1,4 @@
-# StyleTransferofText
+# Style Transfer of Text
 
 ## What is Style
 Every human stands in a specific range in the big space of different aspects of socio-personal life. For example, everybody has different views and opinions about politics. Everyone individually has a unique sentimental standpoint.
